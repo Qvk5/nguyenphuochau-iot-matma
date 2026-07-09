@@ -12,6 +12,7 @@ Mã học phần: INT4410 (Bảo mật IoT)
 Link kho lưu trữ (GitHub): [https://github.com/Qvk5/nguyenphuochau-iot-matma](https://github.com/Qvk5/nguyenphuochau-iot-matma)
 
 **2. Lý do chọn đề tài**
+
 Trong hệ sinh thái Internet of Things (IoT), dữ liệu cảm biến thường xuyên được truyền tải qua các môi trường mạng không an toàn. Các thiết bị IoT có đặc thù tài nguyên hạn chế (CPU yếu, RAM thấp), dẫn đến việc áp dụng các giao thức bảo mật tiêu chuẩn gặp nhiều khó khăn. Việc triển khai sai mật mã (như sử dụng thuật toán tự chế, mã hóa cứng khóa bí mật) diễn ra rất phổ biến. Do đó, việc nghiên cứu vai trò của mật mã để đảm bảo ba yếu tố cốt lõi: Tính bí mật (Confidentiality), Tính toàn vẹn (Integrity) và Xác thực (Authentication) là vô cùng cấp thiết nhằm xây dựng nền tảng IoT an toàn.
 
 **3. Mục tiêu đề tài**

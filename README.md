@@ -40,6 +40,7 @@ Mô phỏng thực hành (Lab/Demo): Viết script đóng vai trò thiết bị 
 Phân tích đối chứng: Đánh giá kết quả sinh ra từ log hệ thống giữa hai trường hợp: Dữ liệu hợp lệ và Dữ liệu đã bị kẻ tấn công (MITM) thay đổi.
 
 **6. Danh sách sản phẩm dự kiến (Deliverables)**
+
 Để đáp ứng chuẩn đầu ra của đồ án, nhóm cam kết sẽ hoàn thiện các minh chứng sau trên GitHub:
 
 Sơ đồ luồng dữ liệu: Biểu đồ minh họa cụ thể khi nào dùng TLS, khi nào dùng HMAC cho payload, và khi nào dùng chữ ký số cho firmware.

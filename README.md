@@ -6,7 +6,9 @@
 
 **1. Thông tin chung
 
-Tên đề tài: Đề tài 36 - Vai trò của mật mã trong bảo mật IoT
+Đề tài 36
+
+Tên đề tài:  Vai trò của mật mã trong bảo mật IoT
 
 Sinh viên thực hiện: Nguyễn Phước Hậu - 231A010774
 
